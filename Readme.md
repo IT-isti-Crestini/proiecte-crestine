@@ -4,6 +4,9 @@ Puteți adaugă proiectul tău deschizând un PR și modificând fișierul `Read
 - [Numele proiectului](https://github.com/XXXX)
 ```
 
+## Implica-te
+Dacă dorești să te implici, te invităm în secțiunea [Discuții](https://github.com/IT-isti-Crestini/proiecte-crestine/discussions).
+
 ## Proiecte open-source
 - [radiocrestin.ro](https://github.com/radio-crestin/radiocrestin.ro)
 - [radio-crestin-mobile-app](https://github.com/radio-crestin/radio-crestin-mobile-app)
@@ -18,5 +21,3 @@ Puteți adaugă proiectul tău deschizând un PR și modificând fișierul `Read
   
 <br/>
 
-### Discutii
-- Daca aveti propuneri de proiecte noi, puteti deschide o discutie in [Ideas](https://github.com/iosifnicolae2/proiecte-opensource-crestine/discussions/new?category=ideas)
