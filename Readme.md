@@ -4,7 +4,7 @@ Puteți adaugă proiectul tău deschizând un PR și modificând fișierul `Read
 - [Numele proiectului](https://github.com/XXXX)
 ```
 
-## Implica-te
+## Dorești să te implici?
 Dacă dorești să te implici, te invităm în secțiunea [Discuții](https://github.com/IT-isti-Crestini/proiecte-crestine/discussions).
 
 ## Proiecte open-source
