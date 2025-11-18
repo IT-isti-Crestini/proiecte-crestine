@@ -4,7 +4,7 @@
 - [bible-api](https://github.com/ichthus-soft/bible-api)
 
 
-## Proiecte closed-source (deschisi la colaborari)
+## Proiecte closed-source (insa foarte deschisi pentru colaboratori noi)
 - [aripisprecer.ro](https://www.aripisprecer.ro/contact/)
 - [resursecrestine.ro](https://www.resursecrestine.ro/contact)
 - [ebiblia.ro](https://www.facebook.com/eBiblia)
